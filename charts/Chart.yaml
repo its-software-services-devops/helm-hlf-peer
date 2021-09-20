@@ -1,0 +1,13 @@
+apiVersion: v2
+description: Hyperledger Fabric Peer chart
+name: helm-hlf-peer
+version: 1.0.0
+appVersion: 1.4.3
+keywords:
+  - blockchain
+  - hyperledger
+  - fabric
+home: https://github.com/its-software-services-devops/helm-hlf-peer
+sources:
+  - https://github.com/hyperledger/fabric
+icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
