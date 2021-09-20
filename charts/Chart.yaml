@@ -1,7 +1,7 @@
 apiVersion: v2
 description: Hyperledger Fabric Peer chart
 name: helm-hlf-peer
-version: 1.0.0
+version: 1.0.1
 appVersion: 1.4.3
 keywords:
   - blockchain
