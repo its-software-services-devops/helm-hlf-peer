@@ -3,9 +3,9 @@ entries:
   helm-hlf-peer:
   - apiVersion: v2
     appVersion: 1.4.3
-    created: "2021-09-20T02:42:47.290849889Z"
+    created: "2021-09-20T02:43:19.124040846Z"
     description: Hyperledger Fabric Peer chart
-    digest: 6b3ad688f3cd72015e13b045117bbadba720e88029575c82bd31ae141639745a
+    digest: 4a69033cffce91ae03ac19161e16c86b992f38e4df6827801a05b1fcf35f7b5c
     home: https://github.com/its-software-services-devops/helm-hlf-peer
     icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
     keywords:
@@ -18,4 +18,4 @@ entries:
     urls:
     - https://its-software-services-devops.github.io/helm-hlf-peer/helm-hlf-peer-1.0.0.tgz
     version: 1.0.0
-generated: "2021-09-20T02:42:47.289964982Z"
+generated: "2021-09-20T02:43:19.122342537Z"
